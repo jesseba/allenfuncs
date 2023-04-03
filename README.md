@@ -1,5 +1,5 @@
 # allenfuncs
-Functions created to use Allen's Mouse Connectivity Cache easy to use. Functions allow you to set injection and projection sites for specific mouse strains and look at subsequent brain regions of interest. 
+Functions created to use Allen's Mouse Connectivity Cache. These functions allow you to set injection and projection sites for specific mouse strains and look at subsequent brain regions of interest. 
 
 I specifically pulled the ccf_2017 from Allen for the reference space key and the Mouse Connectivity Cache. In my code, I use retina for the injection site, dorsal part of the lateral geniculate nucleus as the projection site, and I have three mouse strains based on our project direction (Slc17a6-IRES-Cre, FoxP2-IRES-Cre, Kcng4-Cre). I decided to name files using our acronym for dorsal part of the lateral geniculate nucleus, dLGN, as opposed to the Allen's (GENd). That variable isn't necessary for any of the code committed. 
 
